@@ -18,18 +18,25 @@
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=abhilakkkkshya505&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-## ⚡ whoami
+## ⚡ Who Am I
 
-typescript
+```typescript
 const abhilakkkkshya505: Developer = {
-  name:      "Abhilakshya",
-  role:      "Frontend or full-stack engineer",
-  location:  "Building from the open web",
-  currently: "building in public",
-  stack:     ["Python", "JavaScript", "TypeScript", "HTML", "Shell", "CSS"],
-  mantra:    "Make useful things, then make them delightful 🚀",
+  name: "Abhilakshya",
+  role: "Student Engineer",
+  location: "Building on the Open Web",
+  currently: "Building in Public",
+  stack: [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "HTML",
+    "Shell",
+    "CSS",
+  ],
+  mantra: "Make useful things, then make them delightful 🚀",
 };
-
+```
 
 > Frontend or full-stack engineer
 > 
