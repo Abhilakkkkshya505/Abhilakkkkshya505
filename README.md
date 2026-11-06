@@ -20,7 +20,7 @@
 
 ## ⚡ whoami
 
-```typescript
+typescript
 const abhilakkkkshya505: Developer = {
   name:      "Abhilakshya",
   role:      "Frontend or full-stack engineer",
@@ -29,7 +29,7 @@ const abhilakkkkshya505: Developer = {
   stack:     ["Python", "JavaScript", "TypeScript", "HTML", "Shell", "CSS"],
   mantra:    "Make useful things, then make them delightful 🚀",
 };
-```
+
 
 > Frontend or full-stack engineer
 > 
